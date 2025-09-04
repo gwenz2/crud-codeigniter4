@@ -1,23 +1,17 @@
 # 🎮 Retro Gaming CRUD - CodeIgniter 4
 
-A retro pixel-style product management system built with CodeIgniter 4, featuring a gaming-inspired UI and interactive audio effects.
+A retro pixel-style simple product management system built with CodeIgniter 4, featuring a gaming-inspired UI and interactive audio effects.
 
 ## 📸 Screenshots
 
 ![Retro Gaming CRUD Interface](screenshots/main-interface.png)
 *Main interface showing the retro gaming style with particle effects and product list*
 
-![Add Product Modal](screenshots/add-product-modal.png)
-*Modal dialog for adding new products with retro styling*
-
-![Product Management](screenshots/product-management.png)
-*Complete CRUD operations with gaming-inspired buttons and feedback*
 
 ## ✨ Features
 
 - **🎨 Retro Pixel Design** - Gaming-inspired UI with Press Start 2P font
 - **🎵 Interactive Audio** - Hover, success, error, and cancel sound effects
-- **✨ Particle Effects** - Animated particles floating across the screen
 - **🖼️ Background Support** - Custom background image with opacity overlay
 - **📱 Responsive Design** - Works on desktop and mobile devices
 - **🔧 Full CRUD Operations** - Create, Read, Update, Delete products
