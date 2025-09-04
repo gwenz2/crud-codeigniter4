@@ -2,6 +2,17 @@
 
 A retro pixel-style product management system built with CodeIgniter 4, featuring a gaming-inspired UI and interactive audio effects.
 
+## 📸 Screenshots
+
+![Retro Gaming CRUD Interface](screenshots/main-interface.png)
+*Main interface showing the retro gaming style with particle effects and product list*
+
+![Add Product Modal](screenshots/add-product-modal.png)
+*Modal dialog for adding new products with retro styling*
+
+![Product Management](screenshots/product-management.png)
+*Complete CRUD operations with gaming-inspired buttons and feedback*
+
 ## ✨ Features
 
 - **🎨 Retro Pixel Design** - Gaming-inspired UI with Press Start 2P font
