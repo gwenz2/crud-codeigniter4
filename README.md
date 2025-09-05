@@ -125,13 +125,6 @@ document.getElementById('successSound').volume = 0.7;
 document.getElementById('hoverSound').volume = 0.3;
 ```
 
-### Particles
-Modify particle count and behavior:
-```javascript
-const particleCount = 15; // Number of particles
-setInterval(createParticle, 300); // Creation frequency
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
